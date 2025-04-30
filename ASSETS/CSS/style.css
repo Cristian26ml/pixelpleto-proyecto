@@ -637,34 +637,7 @@ img {
     .container-footer {
         text-align: center;
         padding: 20px;
-        /*display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 90vh;*/
     }
-    /*.container-footer a {
-        width: 50px;
-        height: 50px;
-        border: 5px solid white;
-        -webkit-border-radius: 50%;
-        -moz-border-radius: 50%;
-        -ms-border-radius: 50%;
-        -o-border-radius: 50%;
-        border-radius: 50%;
-        box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.);
-        -webkit-animation: float 5s ease-in-out infinite;
-        animation: float 5s ease-in-out infinite;
-    }*/
-    /*@keyframes float {
-        0% {
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.5);
-            transform: translateY(0);
-            -webkit-animation: translateY(0);
-            -moz-transform: translateY(0);
-            -ms-transform: translateY(0);
-            -o-transform: translateY(0);
-        }
-    }*/
     .email-newsletter {
         font-size: 0.9rem;
     }
